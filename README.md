@@ -90,8 +90,8 @@ Scroll through the Screenshots section above to preview all key dashboard views 
 Each image represents a different part of the Tableau dashboard for quick reference.
 
 ## Tableau Public 
-Link : https://github.com/Divyaa91/Customer-Shopping-Trends-Analysis-Dashboard-Tableau-
-
+Link : [https://github.com/Divyaa91/Customer-Shopping-Trends-Analysis-Dashboard-Tableau-
+](https://public.tableau.com/app/profile/divya.c5063/viz/Project2_17573404327890/CustomerDemographics)
 
 
 
